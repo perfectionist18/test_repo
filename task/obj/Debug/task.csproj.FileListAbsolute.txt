@@ -1,0 +1,10 @@
+E:\STUDY\КДМ\KDM02_\task\bin\Debug\task.exe.config
+E:\STUDY\КДМ\KDM02_\task\bin\Debug\task.exe
+E:\STUDY\КДМ\KDM02_\task\bin\Debug\task.pdb
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.csprojAssemblyReference.cache
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.Form1.resources
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.Properties.Resources.resources
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.csproj.GenerateResource.cache
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.exe
+E:\STUDY\КДМ\KDM02_\task\obj\Debug\task.pdb
